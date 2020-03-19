@@ -1,0 +1,7 @@
+{
+  "name": "Colorizer",
+  "id": "816889819624434639",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
